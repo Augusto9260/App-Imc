@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "MYIMC",
+    "slug": "MYIMC",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/MYIMC.png",
+    "splash": {
+      "image": "./assets/splashImc.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#84FFA6"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.ddeve.MYIMC",
+      "versionCode": 1
+    }
+  }
+}
